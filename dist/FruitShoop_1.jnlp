@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="FruitShoop_1.jnlp">
+  <information>
+    <title>FruitShoop_1</title>
+    <vendor>Usuario</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="FruitShoop_1.jar" size="84937" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="fruitshoop_1.FruitShoop_1"  name="FruitShoop_1" />
+  <update check="always"/>
+</jnlp>
